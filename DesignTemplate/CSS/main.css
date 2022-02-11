@@ -115,7 +115,7 @@ img {
 }
 
 .section {
-    padding: 0rem 0 0rem; 
+    padding: 0rem 0 0rem; /* change the value to suit your site */
 }
 
 .section__title,
@@ -131,8 +131,8 @@ img {
 
 .section__subtitle {
     display: block;
-    font-size: var(--small-font-size); /* change the value  to suit your site */
-    margin-bottom: var(--mb-3); /* change the value  to suit your site */
+    font-size: var(--small-font-size); /* change the value to suit your site */
+    margin-bottom: var(--mb-3); /* change the value to suit your site */
 }
 
 /*===== Header and Nav =====*/
